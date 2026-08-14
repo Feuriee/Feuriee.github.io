@@ -1,6 +1,11 @@
 // projects.js
 const projects = [
   {
+    title: "NextStep",
+    description: "The smart path to your future career. 'An Adaptive Job Recommendation Platform Powered by CV Analysis and Job Market Trends'.",
+    link: "https://fnl-fe-nextstep-34zn.vercel.app/"
+  },
+  {
     title: "Tugas 1 Pemrograman Web",
     description: "Tugas 1 Pemrograman Web yang berisi tentang pembuatan halaman web sederhana menggunakan HTML dan CSS.",
     link: "https://feuriee.github.io/Tugas-1-Praktikum-Pemrograman-Web-/"
